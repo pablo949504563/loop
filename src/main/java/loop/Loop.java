@@ -12,7 +12,7 @@ public class Loop {
 	public static void main(String[] args) {
 
 		Timer timer = new Timer();
-		final long SEGUNDOS = (100 * 60);
+		final long SEGUNDOS = (100 * 100);
 
 		TimerTask tarefa = new TimerTask() {
 
